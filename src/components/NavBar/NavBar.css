@@ -1,0 +1,16 @@
+.titulo {
+    font-size: 4rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #CBE4DE;
+}
+
+.lista {
+    display: flex;
+    justify-content: space-around;
+}
+
+.item {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5rem;
+}
+

@@ -1,0 +1,14 @@
+.contador {
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+}
+
+.carrito {
+    color: #CBE4DE;
+}
+
+.elementos {
+    margin-left: 10px;
+    color: #CBE4DE;
+}
